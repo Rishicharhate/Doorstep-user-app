@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/auth_nav"
+    app:startDestination="@id/fragment_splash">
+
+    <fragment
+        android:id="@+id/fragment_splash"
+        android:name="com.example.blinkitclone.auth.Fragment_splash"
+        android:label="fragment_splash"
+        tools:layout="@layout/fragment_splash" >
+        <action
+            android:id="@+id/action_fragment_splash_to_fragment_signin"
+            app:destination="@id/fragment_signin" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragment_signin"
+        android:name="com.example.blinkitclone.auth.Fragment_signin"
+        android:label="fragment_signin"
+        tools:layout="@layout/fragment_signin" >
+        <action
+            android:id="@+id/action_fragment_signin_to_fragment_OTP"
+            app:destination="@id/fragment_OTP" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragment_OTP"
+        android:name="com.example.blinkitclone.auth.Fragment_OTP"
+        android:label="fragment__o_t_p"
+        tools:layout="@layout/fragment__o_t_p" />
+</navigation>

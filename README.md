@@ -1,23 +1,7 @@
-# 🛒 Doorstep Ecosystem
-
-Doorstep is a complete Quick-Commerce solution consisting of two separate Android applications:
-
-| Application           | Description                                          |
-| --------------------- | ---------------------------------------------------- |
-| 📱 Doorstep User App  | Customer-facing grocery shopping application         |
-| 🏪 Doorstep Admin App | Product, inventory, and order management application |
-
-## Repositories
-
-* 📱 User App: https://github.com/Rishicharhate/Doorstep-user-app
-* 🏪 Admin App: https://github.com/Rishicharhate/Doorstep-Admin_App
-
----
-
 # 🛒 Doorstep - Quick Commerce Android App
 
 <p align="center">
-  <img src="app/src/main/res/drawable/doorstep_logo2.png" width="150" alt="Doorstep Logo">
+  <img src="app/src/main/res/drawable/doorstep_logo2.png" width="190" alt="Doorstep Logo">
 </p>
 
 <p align="center">
@@ -31,6 +15,22 @@ Doorstep is a complete Quick-Commerce solution consisting of two separate Androi
   <img src="https://img.shields.io/badge/Room-Database-orange">
   <img src="https://img.shields.io/badge/Material%203-UI-blueviolet">
 </p>
+
+---
+
+# 🛒 Doorstep Ecosystem
+
+Doorstep is a complete Quick-Commerce solution consisting of two separate Android applications:
+
+| Application           | Description                                          |
+| --------------------- | ---------------------------------------------------- |
+| 📱 Doorstep User App  | Customer-facing grocery shopping application         |
+| 🏪 Doorstep Admin App | Product, inventory, and order management application |
+
+## Repositories
+
+* 📱 User App: https://github.com/Rishicharhate/Doorstep-user-app
+* 🏪 Admin App: https://github.com/Rishicharhate/Doorstep-Admin-App
 
 ---
 
